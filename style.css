@@ -1,0 +1,56 @@
+h1, h2, h3, h4, h5, h6{
+    color: #fff;
+    text-align: center;
+}
+.body{
+    background-image: url(./img/background.jpg);
+    height: 500px;
+    width: 500px;
+    /* background-color: black; */
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+h2{
+    text-align: center;
+    color: #fff;
+    text-transform: capitalize;
+}
+h4{
+    text-transform: capitalize;
+}
+button{
+    /* margin-left: 200px; */
+    text-transform: uppercase;
+    background-color: aqua;
+    padding: 5px 15px;
+    display: block;
+   margin: auto;
+   border-radius: 10px;
+}
+/* a{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.a{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+a{
+    color: #fff;
+    text-transform:capitalize;
+   
+    
+}
+
+
+
